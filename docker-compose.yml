@@ -1,5 +1,3 @@
-version: '3.8'
-
 services:
   mongodb:
     image: mongo:latest
@@ -8,12 +6,19 @@ services:
       - "27017:27017"
     restart: unless-stopped
 
+  redis:
+    image: redis:latest
+    container_name: shopnow-redis
+    ports:
+      - "6379:6379"
+    restart: unless-stopped
+
   neo4j:
     image: neo4j:latest
     container_name: shopnow-neo4j
     ports:
-      - "7474:7474" # Interface Web (Browser)
-      - "7687:7687" # Protocole Bolt (pour Python)
+      - "7474:7474"
+      - "7687:7687"
     environment:
       - NEO4J_AUTH=neo4j/platon01
     volumes:
