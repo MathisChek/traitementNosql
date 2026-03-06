@@ -1,0 +1,23 @@
+version: '3.8'
+
+services:
+  mongodb:
+    image: mongo:latest
+    container_name: shopnow-mongo
+    ports:
+      - "27017:27017"
+    restart: unless-stopped
+
+  neo4j:
+    image: neo4j:latest
+    container_name: shopnow-neo4j
+    ports:
+      - "7474:7474" # Interface Web (Browser)
+      - "7687:7687" # Protocole Bolt (pour Python)
+    environment:
+      - NEO4J_AUTH=neo4j/platon01
+    volumes:
+      - neo4j_data:/data
+
+volumes:
+  neo4j_data:
