@@ -1,0 +1,80 @@
+{"_id": "p001", "name": "Home item 1", "category": "Home", "price": 192.58, "tags": ["premium", "new"], "active": true}
+{"_id": "p002", "name": "Sports item 2", "category": "Sports", "price": 349.8, "tags": ["refurb", "gift", "new"], "active": true}
+{"_id": "p003", "name": "Home item 3", "category": "Home", "price": 151.86, "tags": ["gift"], "active": true}
+{"_id": "p004", "name": "Fashion item 4", "category": "Fashion", "price": 160.22, "tags": ["gift"], "active": false}
+{"_id": "p005", "name": "Books item 5", "category": "Books", "price": 460.09, "tags": ["eco", "promo", "gift"], "active": true}
+{"_id": "p006", "name": "Grocery item 6", "category": "Grocery", "price": 96.97, "tags": ["promo", "bestseller", "eco"], "active": false}
+{"_id": "p007", "name": "Electronics item 7", "category": "Electronics", "price": 471.08, "tags": ["eco", "gift", "bestseller"], "active": true}
+{"_id": "p008", "name": "Books item 8", "category": "Books", "price": 45.57, "tags": ["gift", "refurb", "bestseller"], "active": true}
+{"_id": "p009", "name": "Beauty item 9", "category": "Beauty", "price": 106.1, "tags": ["premium", "eco", "refurb"], "active": false}
+{"_id": "p010", "name": "Home item 10", "category": "Home", "price": 337.48, "tags": ["new", "premium"], "active": true}
+{"_id": "p011", "name": "Electronics item 11", "category": "Electronics", "price": 231.84, "tags": ["promo", "refurb", "gift"], "active": true}
+{"_id": "p012", "name": "Books item 12", "category": "Books", "price": 136.26, "tags": ["promo", "eco"], "active": true}
+{"_id": "p013", "name": "Beauty item 13", "category": "Beauty", "price": 83.07, "tags": ["bestseller", "premium", "gift"], "active": true}
+{"_id": "p014", "name": "Fashion item 14", "category": "Fashion", "price": 409.46, "tags": ["bestseller", "promo"], "active": true}
+{"_id": "p015", "name": "Beauty item 15", "category": "Beauty", "price": 62.13, "tags": ["bestseller"], "active": true}
+{"_id": "p016", "name": "Beauty item 16", "category": "Beauty", "price": 144.46, "tags": ["bestseller"], "active": true}
+{"_id": "p017", "name": "Home item 17", "category": "Home", "price": 345.3, "tags": ["gift", "new"], "active": true}
+{"_id": "p018", "name": "Grocery item 18", "category": "Grocery", "price": 30.14, "tags": ["new", "premium", "promo"], "active": true}
+{"_id": "p019", "name": "Beauty item 19", "category": "Beauty", "price": 386.69, "tags": ["premium", "eco", "new"], "active": false}
+{"_id": "p020", "name": "Books item 20", "category": "Books", "price": 9.78, "tags": ["bestseller"], "active": true}
+{"_id": "p021", "name": "Books item 21", "category": "Books", "price": 22.82, "tags": ["gift", "refurb"], "active": true}
+{"_id": "p022", "name": "Sports item 22", "category": "Sports", "price": 68.08, "tags": ["premium", "promo"], "active": true}
+{"_id": "p023", "name": "Home item 23", "category": "Home", "price": 342.61, "tags": ["promo", "premium", "gift"], "active": false}
+{"_id": "p024", "name": "Books item 24", "category": "Books", "price": 375.98, "tags": ["refurb"], "active": true}
+{"_id": "p025", "name": "Grocery item 25", "category": "Grocery", "price": 406.32, "tags": ["promo", "eco"], "active": true}
+{"_id": "p026", "name": "Grocery item 26", "category": "Grocery", "price": 465.74, "tags": ["refurb", "bestseller", "eco"], "active": true}
+{"_id": "p027", "name": "Home item 27", "category": "Home", "price": 394.74, "tags": ["new"], "active": true}
+{"_id": "p028", "name": "Grocery item 28", "category": "Grocery", "price": 237.98, "tags": ["refurb"], "active": false}
+{"_id": "p029", "name": "Beauty item 29", "category": "Beauty", "price": 156.06, "tags": ["eco"], "active": true}
+{"_id": "p030", "name": "Fashion item 30", "category": "Fashion", "price": 100.59, "tags": ["premium", "promo"], "active": true}
+{"_id": "p031", "name": "Beauty item 31", "category": "Beauty", "price": 322.52, "tags": ["bestseller", "gift"], "active": true}
+{"_id": "p032", "name": "Electronics item 32", "category": "Electronics", "price": 62.08, "tags": ["eco", "gift"], "active": true}
+{"_id": "p033", "name": "Electronics item 33", "category": "Electronics", "price": 58.65, "tags": ["premium", "bestseller"], "active": true}
+{"_id": "p034", "name": "Sports item 34", "category": "Sports", "price": 305.06, "tags": ["promo", "new", "gift"], "active": true}
+{"_id": "p035", "name": "Beauty item 35", "category": "Beauty", "price": 26.96, "tags": ["promo", "gift"], "active": true}
+{"_id": "p036", "name": "Beauty item 36", "category": "Beauty", "price": 218.48, "tags": ["premium", "gift", "refurb"], "active": true}
+{"_id": "p037", "name": "Fashion item 37", "category": "Fashion", "price": 450.51, "tags": ["premium", "bestseller", "new"], "active": true}
+{"_id": "p038", "name": "Sports item 38", "category": "Sports", "price": 350.11, "tags": ["eco", "refurb", "new"], "active": false}
+{"_id": "p039", "name": "Fashion item 39", "category": "Fashion", "price": 375.32, "tags": ["gift"], "active": true}
+{"_id": "p040", "name": "Sports item 40", "category": "Sports", "price": 276.22, "tags": ["premium"], "active": true}
+{"_id": "p041", "name": "Home item 41", "category": "Home", "price": 217.78, "tags": ["gift", "bestseller", "premium"], "active": false}
+{"_id": "p042", "name": "Sports item 42", "category": "Sports", "price": 223.86, "tags": ["gift"], "active": false}
+{"_id": "p043", "name": "Grocery item 43", "category": "Grocery", "price": 451.07, "tags": ["eco", "bestseller", "promo"], "active": true}
+{"_id": "p044", "name": "Books item 44", "category": "Books", "price": 333.6, "tags": ["premium", "promo", "eco"], "active": true}
+{"_id": "p045", "name": "Home item 45", "category": "Home", "price": 404.24, "tags": ["promo"], "active": true}
+{"_id": "p046", "name": "Home item 46", "category": "Home", "price": 492.04, "tags": ["refurb", "promo", "new"], "active": false}
+{"_id": "p047", "name": "Fashion item 47", "category": "Fashion", "price": 289.95, "tags": ["bestseller", "new", "refurb"], "active": false}
+{"_id": "p048", "name": "Home item 48", "category": "Home", "price": 78.04, "tags": ["promo", "refurb", "new"], "active": true}
+{"_id": "p049", "name": "Home item 49", "category": "Home", "price": 403.02, "tags": ["gift", "new", "promo"], "active": true}
+{"_id": "p050", "name": "Grocery item 50", "category": "Grocery", "price": 65.06, "tags": ["refurb"], "active": false}
+{"_id": "p051", "name": "Fashion item 51", "category": "Fashion", "price": 267.9, "tags": ["gift", "premium", "new"], "active": false}
+{"_id": "p052", "name": "Grocery item 52", "category": "Grocery", "price": 453.88, "tags": ["eco", "bestseller"], "active": false}
+{"_id": "p053", "name": "Sports item 53", "category": "Sports", "price": 133.29, "tags": ["refurb"], "active": true}
+{"_id": "p054", "name": "Grocery item 54", "category": "Grocery", "price": 389.94, "tags": ["bestseller", "eco"], "active": true}
+{"_id": "p055", "name": "Sports item 55", "category": "Sports", "price": 43.34, "tags": ["eco", "premium"], "active": true}
+{"_id": "p056", "name": "Beauty item 56", "category": "Beauty", "price": 447.04, "tags": ["eco"], "active": true}
+{"_id": "p057", "name": "Home item 57", "category": "Home", "price": 194.59, "tags": ["bestseller"], "active": true}
+{"_id": "p058", "name": "Electronics item 58", "category": "Electronics", "price": 210.35, "tags": ["gift", "new"], "active": false}
+{"_id": "p059", "name": "Electronics item 59", "category": "Electronics", "price": 107.37, "tags": ["new", "gift"], "active": true}
+{"_id": "p060", "name": "Grocery item 60", "category": "Grocery", "price": 440.92, "tags": ["new", "refurb", "promo"], "active": true}
+{"_id": "p061", "name": "Beauty item 61", "category": "Beauty", "price": 377.96, "tags": ["gift", "bestseller"], "active": true}
+{"_id": "p062", "name": "Sports item 62", "category": "Sports", "price": 113.6, "tags": ["new", "promo"], "active": false}
+{"_id": "p063", "name": "Beauty item 63", "category": "Beauty", "price": 336.08, "tags": ["bestseller", "eco"], "active": false}
+{"_id": "p064", "name": "Home item 64", "category": "Home", "price": 490.45, "tags": ["promo", "new", "gift"], "active": true}
+{"_id": "p065", "name": "Electronics item 65", "category": "Electronics", "price": 323.15, "tags": ["refurb"], "active": false}
+{"_id": "p066", "name": "Home item 66", "category": "Home", "price": 29.88, "tags": ["premium", "eco"], "active": false}
+{"_id": "p067", "name": "Beauty item 67", "category": "Beauty", "price": 172.05, "tags": ["premium", "new"], "active": true}
+{"_id": "p068", "name": "Grocery item 68", "category": "Grocery", "price": 45.53, "tags": ["bestseller"], "active": true}
+{"_id": "p069", "name": "Beauty item 69", "category": "Beauty", "price": 115.98, "tags": ["refurb"], "active": true}
+{"_id": "p070", "name": "Grocery item 70", "category": "Grocery", "price": 20.35, "tags": ["eco"], "active": true}
+{"_id": "p071", "name": "Books item 71", "category": "Books", "price": 80.42, "tags": ["new"], "active": true}
+{"_id": "p072", "name": "Books item 72", "category": "Books", "price": 474.13, "tags": ["bestseller", "premium"], "active": true}
+{"_id": "p073", "name": "Home item 73", "category": "Home", "price": 304.91, "tags": ["bestseller", "promo", "eco"], "active": true}
+{"_id": "p074", "name": "Electronics item 74", "category": "Electronics", "price": 291.44, "tags": ["gift", "bestseller"], "active": false}
+{"_id": "p075", "name": "Sports item 75", "category": "Sports", "price": 471.02, "tags": ["promo"], "active": true}
+{"_id": "p076", "name": "Electronics item 76", "category": "Electronics", "price": 350.1, "tags": ["refurb", "bestseller"], "active": true}
+{"_id": "p077", "name": "Grocery item 77", "category": "Grocery", "price": 491.99, "tags": ["premium"], "active": false}
+{"_id": "p078", "name": "Fashion item 78", "category": "Fashion", "price": 188.42, "tags": ["bestseller", "premium", "promo"], "active": false}
+{"_id": "p079", "name": "Grocery item 79", "category": "Grocery", "price": 247.64, "tags": ["premium", "bestseller"], "active": false}
+{"_id": "p080", "name": "Fashion item 80", "category": "Fashion", "price": 80.72, "tags": ["bestseller"], "active": true}
